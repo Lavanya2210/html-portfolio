@@ -1,2 +1,2 @@
 # html-portfolio
-this is my repositry.
+this is my repository.
